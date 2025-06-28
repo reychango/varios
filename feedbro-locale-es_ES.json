@@ -1,6 +1,3 @@
-Claro, aquí tienes la traducción completa del archivo JSON al español. He mantenido las claves originales y he traducido los valores para que el archivo sea funcional en la aplicación Feedbro.
-
-```json
 "meta": {
     "manifest_version": 1,
     "locale_version": "1.0",
