@@ -1,17 +1,16 @@
 Claro, aquí tienes la traducción completa del archivo JSON al español. He mantenido las claves originales y he traducido los valores para que el archivo sea funcional en la aplicación Feedbro.
 
 ```json
-{
-    "meta": {
-        "manifest_version": 1,
-        "locale_version": "1.0",
-        "locale_name": "Español",
-        "locale_type": "es_ES",
-        "locale_last_updated": "2024-06-28 12:00:00 UTC",
-        "locale_author_name": "Nodetics (Traducción por Gemini)",
-        "locale_author_email": "nodetics@gmail.com",
-        "locale_source_url": "https://nodetics.com/feedbro/"
-    },
+"meta": {
+    "manifest_version": 1,
+    "locale_version": "1.0",
+    "locale_name": "Español",
+    "locale_type": "es_ES",
+    "locale_last_updated": "2024-06-28 12:00:00 UTC",
+    "locale_author_name": "Nodetics (Traducción por Reychango)",
+    "locale_author_email": "nodetics@gmail.com",
+    "locale_source_url": "https://nodetics.com/feedbro/"
+},
     "addfeed_url_body": "URL del Feed",
     "addfeed_load_body": "Cargar",
     "addfeed_title_body": "Título",
